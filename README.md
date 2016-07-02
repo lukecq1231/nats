@@ -1,6 +1,17 @@
 # Distraction-Based Neural Networks for Modeling Documents
 
-Source code for "Distraction-Based Neural Networks for Modeling Documents" runnable on GPU and CPU.
+Source code for "Distraction-Based Neural Networks for Modeling Documents" runnable on GPU and CPU. 
+If you use this code as part of any published research, please acknowledge the following paper.
+
+**"Distraction-Based Neural Networks for Modeling Documents"**  
+Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang. *To appear IJCAI (2016)*
+
+    @inproceedings{Chen2016Distraction,
+      title={Distraction-Based Neural Networks for Modeling Documents},
+      author={Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang},
+      booktitle={IJCAI},
+      year={2016}
+    }
 
 ## Dependencies
 
@@ -49,3 +60,4 @@ bash test.sh
 ### Actual Corpus Download
 - [LCSTS](http://icrc.hitsz.edu.cn/Article/show/139.html): A Large-Scale Chinese Short Text Summarization Dataset
 - [CNN/DailyMail](https://github.com/deepmind/rc-data/): This repository contains a script to download CNN and Daily Mail articles from the Wayback Machine.
+
