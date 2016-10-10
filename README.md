@@ -4,13 +4,16 @@ Source code for "Distraction-Based Neural Networks for Modeling Documents" runna
 If you use this code as part of any published research, please acknowledge the following paper.
 
 **"Distraction-Based Neural Networks for Modeling Documents"**  
-Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang. *To appear IJCAI (2016)*
+Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang. *IJCAI (2016)*
 
-    @inproceedings{Chen2016Distraction,
-      title={Distraction-Based Neural Networks for Modeling Documents},
-      author={Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang},
-      booktitle={IJCAI},
-      year={2016}
+    @InProceedings{Chen-Qian:2016:IJCAI,
+      author    = {Chen, Qian and Zhu, Xiaodan and Ling, Zhenhua and Wei, Si and Jiang, Hui},
+      title     = {Distraction-Based Neural Networks for Modeling Documents},
+      booktitle = {Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI 2015)},
+      month     = {July},
+      year      = {2016},
+      address   = {New York, NY},
+      publisher = {AAAI}
     }
     
 Homepage of the Qian Chen, http://home.ustc.edu.cn/~cq1231/
