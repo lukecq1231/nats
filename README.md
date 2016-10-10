@@ -12,6 +12,8 @@ Qian Chen, Xiaodan Zhu, Zhenhua Ling, Si Wei, Hui Jiang. *To appear IJCAI (2016)
       booktitle={IJCAI},
       year={2016}
     }
+    
+Homepage of the Qian Chen, http://home.ustc.edu.cn/~cq1231/
 
 ## Dependencies
 
